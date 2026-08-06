@@ -1,6 +1,4 @@
 """
-CS-100: Computational Problem Solving with Python
-Lab 10 - Wordle
 
 Requires a file named 'five_letter_words_no_repeats.txt' in the same folder,
 containing one 5-letter English word per line (no repeated letters).
